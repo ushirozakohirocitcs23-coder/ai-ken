@@ -202,4 +202,12 @@ Tables: `users`, `sessions`, `password_resets`, `conversations`, `messages`, `po
 | Reset emails don't arrive | Configure `SMTP_*`; in development the link appears on screen. |
 | `SECRET_KEY must be set in production` | Set `SECRET_KEY` when `APP_ENV=production`. |
 
+## 12. Project Members
+
+1. Godoy, Paul Christian V.
+2. Lontoc, Ken John E.
+3. Mercado, Rayn Rex C.
+4. Reyes, Aaron Rey M.
+5. Ushirozako, Hiro P.
+6. Villapando, Rodolfo Jr.
 Deployment: see **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)**.
